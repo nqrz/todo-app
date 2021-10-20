@@ -1,0 +1,16 @@
+{
+  "todo": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment"
+    },
+    {
+      "id": "2",
+      "text": "Go to College"
+    },
+    {
+      "id": "3",
+      "text": "Meeting with client"
+    }
+  ]
+}
